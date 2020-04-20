@@ -1,5 +1,5 @@
 ## Credits to [@demotomohiro](http://github.com/demotomohiro) for major setup process
-[![Original Repository](https://img.shields.io/badge/Original%20Repository-Credit-lightgrey)](https://github.com/demotomohiro/remocolab)
+## [![Original Repository](https://img.shields.io/badge/Original%20Repository-Credit-lightgrey)](https://github.com/demotomohiro/remocolab)
 
 # Run colabvnc notebook
 ## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rayanfer32/remocolab/blob/master/remocolabform.ipynb)
